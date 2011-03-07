@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <!-- This is the message your users will see once they've passed the day+launches threshold. -->
+   <string name="APPIRATER_MESSAGE">If you enjoy using %s, would you mind taking a moment to rate it? It won\'t take more than a minute. Thanks for your support!</string>
+   <!-- This is the title of the message alert that users will see. -->
+   <string name="APPIRATER_MESSAGE_TITLE">Rate %s</string>
+   <!-- The text of the button that rejects reviewing the app. -->
+   <string name="APPIRATER_CANCEL_BUTTON">No, Thanks</string>
+   <!-- Text of button that will send user to app review page. -->
+   <string name="APPIRATER_RATE_BUTTON">Rate %s</string>
+   <!-- Text for button to remind the user to review later. -->
+   <string name="APPIRATER_RATE_LATER">Remind me later</string>
+</resources>
