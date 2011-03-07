@@ -31,8 +31,6 @@ While not required, I greatly encourage and appreciate any improvements that you
 to this library be contributed back for the benefit of all who use Appirater.
 
 [iosversion]: https://github.com/arashpayan/appirater/
-
 [ioshomepage]: http://arashpayan.com/blog/index.php/2009/09/07/presenting-appirater/
 [arash]: http://arashpayan.com
-
 [huppie]:http://ijsbrandslob.com/
